@@ -1,6 +1,6 @@
 # loginpage
 
-A new Flutter application.
+This is a flutter based Login Page which uses Dart Language.
 
 ## Getting Started
 
